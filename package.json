@@ -1,0 +1,13 @@
+{
+  "name": "my-node-site",
+  "version": "1.0.0",
+  "description": "Simple Node.js website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
